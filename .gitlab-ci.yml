@@ -1,0 +1,7 @@
+stages:
+  - build
+
+Build Stc.Mess.Api:
+  stage: build
+  script:
+    - echo ToDO
